@@ -46,4 +46,5 @@ List of must-try extensions that could be used for ActionScript development with
 | [File Browser](https://marketplace.visualstudio.com/items?itemName=bodil.file-browser)               | Bodil Stokke     | A nicer alternative to the file open dialog.                                                                                                      |
 | [file-size](https://marketplace.visualstudio.com/items?itemName=zh9528.file-size)               | zhcode     |Show the current text file size in the status bar.                                                                                                      |
 | [VS Dictionary](https://marketplace.visualstudio.com/items?itemName=BingxiLiang.vscode-dictionary)               | Bingxi Liang     | An English dictionary for VS Code                                                                                                      |
+| [X Color Picker](https://marketplace.visualstudio.com/items?itemName=aix.x-color-picker)               | aix     | Color Picker                                                                                                      |
 
