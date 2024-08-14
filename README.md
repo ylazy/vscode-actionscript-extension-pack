@@ -47,4 +47,5 @@ List of must-try extensions that could be used for ActionScript development with
 | [file-size](https://marketplace.visualstudio.com/items?itemName=zh9528.file-size)               | zhcode     |Show the current text file size in the status bar.                                                                                                      |
 | [VS Dictionary](https://marketplace.visualstudio.com/items?itemName=BingxiLiang.vscode-dictionary)               | Bingxi Liang     | An English dictionary for VS Code                                                                                                      |
 | [X Color Picker](https://marketplace.visualstudio.com/items?itemName=aix.x-color-picker)               | aix     | Color Picker                                                                                                      |
+| [Symbol Masks (New)](https://marketplace.visualstudio.com/items?itemName=ctf0.symbol-masks-new)               | ctf0     | Mask symbols in your document with prettier text                                                                                                      |
 
