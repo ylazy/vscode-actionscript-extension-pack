@@ -55,5 +55,5 @@ List of must-try extensions that could be used for ActionScript development with
 | [VS Dictionary](https://marketplace.visualstudio.com/items?itemName=BingxiLiang.vscode-dictionary)               | Bingxi Liang     | An English dictionary for VS Code                                                                                                      |
 | [X Color Picker](https://marketplace.visualstudio.com/items?itemName=aix.x-color-picker)               | aix     | Color Picker                                                                                                      |
 | [Symbol Masks (New)](https://marketplace.visualstudio.com/items?itemName=ctf0.symbol-masks-new)               | ctf0     | Mask symbols in your document with prettier text                                                                                                      |
-
+| [Quick Regex Replacer](https://marketplace.visualstudio.com/items?itemName=nortakales.quick-regex-replacer)               | nortakales     | Configure frequently used find/replace regexs that you can bind to keystrokes or invoke via command palette for quick access                                                                                                      |
 
