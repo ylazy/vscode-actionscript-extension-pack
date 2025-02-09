@@ -1,6 +1,6 @@
 # VSCode ActionScript extension pack
 
-List of must-try extensions that could be used for ActionScript development with Visual Studio Code.
+List of must-try extensions that can be used for ActionScript development with Visual Studio Code.
 
 | Extension Name                                                                                                      | Author              | Description                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
