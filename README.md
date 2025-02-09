@@ -61,3 +61,4 @@ List of must-try extensions that could be used for ActionScript development with
 | [close tabs to the left](https://marketplace.visualstudio.com/items?itemName=ctf0.close-tabs-to-the-left)               | ctf0     | simply adds 'Close to the Left' item to the Title Tab menu                                                                                                      |
 | [ReAlign](https://marketplace.visualstudio.com/items?itemName=maxhillis.realign)               | maxhillis     | Align by regex.                                                                                                      |
 
+| [Toggle Boolean](https://marketplace.visualstudio.com/items?itemName=silesky.toggle-boolean)               | silesky     | Quickly toggle boolean values. Inspired by the vim plugin, toggle-bool.                                                                                                      |
